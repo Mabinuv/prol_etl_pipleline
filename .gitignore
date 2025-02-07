@@ -9,3 +9,10 @@ airflow-webserver.pid
 webserver_config.py
 airflow.cfg
 airflow.db
+
+.dockerignore
+dags/airflowignore
+include
+plugins
+tests
+.astro
