@@ -1,7 +1,7 @@
 Overview
 ========
 
-This is a simple project project to process ETL pipeline using Astronomer.io, Apache airflow, podman container, Postgres and python.
+This is a simple project to process ETL pipeline using Astronomer.io, Apache airflow, podman container, Postgres and python.
 The environment used to run this project is Apple MAC M1
 
 Requirements
